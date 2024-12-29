@@ -1,9 +1,9 @@
 # 3rd-Sem-Notes
-# **Analog communications**->
+**Analog communications**->
 - Fourier transform and its properties
-- Unit impluse functions and its properties
+- Unit impulse functions and their properties
 - Linear Systems
-- Filters- Low pass filters, band pass filters, high pass filters
+- Filters- Low pass filters, bandpass filters, high pass filters
 - Amplitude modulation & demodulation(DSB-SC, SSB-SC, VSB)
 - Frequency Modulation and demodulation
 - Probability; Random Variables
@@ -19,11 +19,10 @@
 - Noise in AM Receivers
 - Noise in FM Receivers
 - Pre-emphasis and De-emphasis in FM.
-# **Signals and Systems**
-- Siganls intro and type of signals
+**Signals and Systems**
+- Signals intro and type of signals
 - Energy and power signals
-- Convulation - Discrete time convulation continous time convulations and circular         
-  convulations
+- Convolution - Discrete time convolution continuous time convolutions and circular          convolutions
 - Z-transform  
 - Laplace Transform  
 - Discrete-Time Fourier Transform (DTFT)  
@@ -32,4 +31,4 @@
 - Continuous-Time Fourier Series (CTFS)  
 - Discrete Fourier Transform (DFT)  
 - Fast Fourier Transform (FFT)
-- Systems and its types
+- Systems and their types
