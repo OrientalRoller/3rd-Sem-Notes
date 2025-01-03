@@ -33,4 +33,41 @@
 - Continuous-Time Fourier Series (CTFS)  
 - Discrete Fourier Transform (DFT)  
 - Fast Fourier Transform (FFT)  
-- Systems and their types  
+- Systems and their types
+
+## **Computational method topics**->
+- Significant  Digits
+- Accuracy and Precision
+- Rounding off
+- Taylor Series
+- Mean value and Rolle's theorem
+- Loss of significance
+- Bisection Method and its convergence
+- Newton Rapson Method and its convergence
+- Secant method
+- **Interpolation**:
+- Newtons Forward Interpolation
+- Newtons Backward Interpolation
+- Lagrange interpolation for unequal interval
+- Newtons Divided Difference
+- **Numerical Integration:**
+- Newton Cote's formula
+- Trapezoidal Rule
+- Simpson's One Fourth Rule
+- Simpson's Three Eighth Rule
+- Rombergs Integration
+- Guass Quadrature Formula
+- Numerical Operators(∆,∇,δ,μ)
+- Solution of Linear Algebraic Method(Guass Jordon, Gauss Elimination)
+- LU Decomposition(Dolitte, Crouts and Choleskys Method)
+- Splines(Linear, Quadratic, Cubic)
+- **Ordinary Differential Equations:**
+- Picards method
+- Euler's Method and Eluers modified method
+- Runga Kutta Method of 2nd and 4th Order
+- Milnes predictor and corrector method
+- Adam Bashforth Predictor And Corrector Method
+- **Minimization techniques:**
+- Golden Section Search
+- Steepest Descent
+- Newtons Method
