@@ -1,6 +1,6 @@
 # 3rd-Sem-Notes
 
-## **Analog Communications** ->
+## **Analog Communications** ->(Resource- Simon Haykins Communication Systems)
 - Fourier transform and its properties  
 - Unit impulse functions and their properties  
 - Linear Systems  
@@ -21,7 +21,7 @@
 - Noise in FM Receivers  
 - Pre-emphasis and De-emphasis in FM  
 
-## **Signals and Systems** ->
+## **Signals and Systems** ->(Resorces- Easy Study Plus Youtube Channel)
 - Signals intro and type of signals  
 - Energy and power signals  
 - Convolution: Discrete-time convolution, continuous time convolutions, and circular convolutions  
@@ -35,7 +35,7 @@
 - Fast Fourier Transform (FFT)  
 - Systems and their types
 
-## **Computational method topics**->
+## **Computational method topics**->(Youtube Channel Gajendra Purohit)
 - Significant  Digits
 - Accuracy and Precision
 - Rounding off
